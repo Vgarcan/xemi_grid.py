@@ -1,2 +1,3 @@
 # xemi_grid.py
-Easy GRID for better work and understanding of coordinates in PYTHON.
+Easy GRID for better working and understanding of coordinates in PYTHON.
+# How to use
